@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/templates/footer/D:/nd-js/Github/googleSites/ng-gsites/src/app/templates/footer/footer.component.less"],
-  "sourcesContent": ["footer {\n  z-index: 2;\n}\n"],
-  "mappings": ";AAAA;AACE,WAAA;;",
-  "names": []
-}

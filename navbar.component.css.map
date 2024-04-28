@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/templates/navbar/D:/nd-js/Github/googleSites/ng-gsites/src/app/templates/navbar/navbar.component.less"],
-  "sourcesContent": [".sidebar {\n  nav {\n    z-index: 2;\n    transition: all 1s ease;\n\n    button {\n      display: none;\n    }\n  }\n}\n\n@media screen and (max-width: 990px) {\n  .sidebar {\n    nav {\n      button {\n        display: block;\n      }\n\n      &.open {\n        height: 100vh;\n        background-color: black !important;\n      }\n    }\n\n    .items {\n      transition: all 1s ease;\n      display: none;\n\n      &.open {\n        display: flex;\n      }\n    }\n  }\n}\n"],
-  "mappings": ";AAAA,CAAA,QACE;AACE,WAAA;AACA,cAAA,IAAA,GAAA;;AAHJ,CAAA,QACE,IAIE;AACE,WAAA;;AAKN,OAAA,OAAA,IAAA,CAAqC,SAAA,EAAA;AACnC,GAZF,QAaI,IACE;AACE,aAAA;;AAGF,GAlBN,QAaI,GAKG,CAAA;AACC,YAAA;AACA,sBAAA;;AARN,GAZF,QAwBI,CAAA;AACE,gBAAA,IAAA,GAAA;AACA,aAAA;;AAEA,GA5BN,QAwBI,CAAA,KAIG,CAVA;AAWC,aAAA;;;",
-  "names": []
-}
